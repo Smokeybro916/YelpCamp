@@ -16,5 +16,13 @@
   "devDependencies": {
     "nodemon": "^3.0.2"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Smokeybro916/YelpCamp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Smokeybro916/YelpCamp/issues"
+  },
+  "homepage": "https://github.com/Smokeybro916/YelpCamp#readme",
   "description": ""
 }
